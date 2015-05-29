@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Interactive Story</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_title_image">It\'s main_title_image</string>
+    <string name="personName">Enter your name to begin</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="key_name">name</string>
+</resources>
